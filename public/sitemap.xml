@@ -2,146 +2,149 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:37713/authors/</loc>
+    <loc>http://localhost:36909/authors/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/event/example/</loc>
+    <loc>http://localhost:36909/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/event/</loc>
+    <loc>http://localhost:36909/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/author/%E5%88%98%E6%99%B4%E7%91%9E/</loc>
+    <loc>http://localhost:36909/author/%E5%88%98%E6%99%B4%E7%91%9E/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/publication-type/arxiv/</loc>
+    <loc>http://localhost:36909/publication-type/arxiv/</loc>
     <lastmod>2024-12-24T01:48:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/author/long-chen/</loc>
+    <loc>http://localhost:36909/author/long-chen/</loc>
     <lastmod>2024-12-24T01:48:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/author/philip-s.-yu/</loc>
+    <loc>http://localhost:36909/author/philip-s.-yu/</loc>
     <lastmod>2024-12-24T01:48:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/publication/peit/</loc>
+    <loc>http://localhost:36909/publication/peit/</loc>
     <lastmod>2024-12-24T01:48:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/publication_types/</loc>
+    <loc>http://localhost:36909/publication_types/</loc>
     <lastmod>2024-12-24T01:48:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/publication/</loc>
+    <loc>http://localhost:36909/publication/</loc>
     <lastmod>2024-12-24T01:48:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/author/xiangxiang-zeng/</loc>
+    <loc>http://localhost:36909/author/xiangxiang-zeng/</loc>
     <lastmod>2024-12-24T01:48:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/author/xuan-lin/</loc>
+    <loc>http://localhost:36909/author/xuan-lin/</loc>
     <lastmod>2024-12-24T01:48:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/author/yile-wang/</loc>
+    <loc>http://localhost:36909/author/yile-wang/</loc>
     <lastmod>2024-12-24T01:48:07+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/tutorials/</loc>
+    <loc>http://localhost:36909/tutorials/</loc>
     <lastmod>2024-12-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/tutorials/24-12-17-person-tutorials/</loc>
+    <loc>http://localhost:36909/tutorials/24-12-17-person-tutorials/</loc>
     <lastmod>2024-12-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/</loc>
+    <loc>http://localhost:36909/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/contact/</loc>
+    <loc>http://localhost:36909/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/people/</loc>
+    <loc>http://localhost:36909/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/tour/</loc>
+    <loc>http://localhost:36909/tour/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/tutorials/20-12-02-icml-best-paper/</loc>
+    <loc>http://localhost:36909/tutorials/20-12-02-icml-best-paper/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/tutorials/20-12-01-wowchemy-prize/</loc>
+    <loc>http://localhost:36909/tutorials/20-12-01-wowchemy-prize/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/publication/preprint/</loc>
+    <loc>http://localhost:36909/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/publication-type/article/</loc>
+    <loc>http://localhost:36909/publication-type/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/tag/source-themes/</loc>
+    <loc>http://localhost:36909/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/tags/</loc>
+    <loc>http://localhost:36909/tags/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/author/%E6%9E%97%E8%BD%A9/</loc>
+    <loc>http://localhost:36909/author/%E6%9E%97%E8%BD%A9/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/publication/journal-article/</loc>
+    <loc>http://localhost:36909/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/publication-type/article-journal/</loc>
+    <loc>http://localhost:36909/publication-type/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/author/robert-ford/</loc>
+    <loc>http://localhost:36909/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/publication/conference-paper/</loc>
+    <loc>http://localhost:36909/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/publication-type/paper-conference/</loc>
+    <loc>http://localhost:36909/publication-type/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/admin/</loc>
+    <loc>http://localhost:36909/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/categories/</loc>
+    <loc>http://localhost:36909/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/author/sunyang/</loc>
+    <loc>http://localhost:36909/author/sunyang/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/author/%E9%99%88%E9%BE%99/</loc>
+    <loc>http://localhost:36909/author/%E9%99%88%E9%BE%99/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/author/%E5%88%98%E6%99%B4%E7%91%9E/</loc>
+    <loc>http://localhost:36909/author/%E5%88%98%E6%99%B4%E7%91%9E/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:37713/author/%E7%9B%9B%E9%9D%99%E5%AE%87/</loc>
+    <loc>http://localhost:36909/author/%E7%9B%9B%E9%9D%99%E5%AE%87/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:36909/author/%E7%9B%9B%E9%9D%99%E5%AE%87/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
