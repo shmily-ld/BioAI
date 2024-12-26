@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
+authors: [刘晴瑞]
 tags: []
 
 # Is this a featured talk? (true/false)
