@@ -25,8 +25,8 @@ interests:
   - Molecule Generation
   - NLP
 
-education:
-  courses:
+#education:
+#  courses:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -42,9 +42,9 @@ social:
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/chenlong164
+   - icon: github
+     icon_pack: fab
+     link: https://github.com/marmalade-s
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -52,7 +52,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: '1849609410@qq.com'
+email: '1518204304@qq.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -63,4 +63,4 @@ user_groups:
   - Graduate Students
 ---
 
-Sheng Jinyu is a graduate student in computer science at Xiangtan University, Xiangtan, China, supervised by Xuan Lin. His research interests include large language models, natural language processing (NLP), and molecule generation.
+Sheng Jinyu is a graduate student in computer science at Xiangtan University, Xiangtan, China, supervised by Xuan Lin. Her research direction is tentative.

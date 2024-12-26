@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 盛静宇
+title: 周瑾瑜
 
 # Full Name (for SEO)
-first_name: Jingyu
-last_name: Sheng
+first_name: Jinyu
+last_name: Zhou
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: 2024 graduate student
+role: 2023 graduate student
 
 # Organizations/Affiliations
 organizations:
@@ -18,15 +18,14 @@ organizations:
     url: 'https://www.xtu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include LLMs and Molecule Generation.
+bio: My research interests include Graph Neural Networks and Protiein-ligand interaction.
 
 interests:
-  - Large Language Models
-  - Molecule Generation
-  - NLP
+  - Graph Neural Networks
+  - Protiein-ligand interaction
 
-education:
-  courses:
+# education:
+#   courses:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -42,9 +41,9 @@ social:
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/chenlong164
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Arirhenium
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -52,7 +51,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: '1849609410@qq.com'
+email: '1368051745@@qq.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -63,4 +62,4 @@ user_groups:
   - Graduate Students
 ---
 
-Sheng Jinyu is a graduate student in computer science at Xiangtan University, Xiangtan, China, supervised by Xuan Lin. His research interests include large language models, natural language processing (NLP), and molecule generation.
+Zhou jinyu is a graduate student majoring in computer science at Xiangtan University, Xiangtan, China, supervised by Xuan Lin. Her research interests include Graph Neural Networks and drug discovery, with a particular focus on protein-ligand interactions.
