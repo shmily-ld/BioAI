@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **BioAI Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **BioAI Research Group** has been a center of excellence for Artificial Intelligence research since its founding in 2022. We are a group of researchers with a wide range of expertise in the fields of machine learning, natural language processing, and computer vision. Our research focuses on developing and applying advanced algorithms and techniques to solve challenging problems in biology, medicine, and healthcare.
   
   # - block: collection
   #   content:
