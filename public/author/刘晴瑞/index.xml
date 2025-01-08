@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>刘晴瑞 | BioAI课题组</title>
+    <link>https://jacklingroup.github.io/author/%E5%88%98%E6%99%B4%E7%91%9E/</link>
+      <atom:link href="https://jacklingroup.github.io/author/%E5%88%98%E6%99%B4%E7%91%9E/index.xml" rel="self" type="application/rss+xml" />
+    <description>刘晴瑞</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jacklingroup.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>刘晴瑞</title>
+      <link>https://jacklingroup.github.io/author/%E5%88%98%E6%99%B4%E7%91%9E/</link>
+    </image>
+    
+    <item>
+      <title>如何写自己的个人信息页面</title>
+      <link>https://jacklingroup.github.io/tutorials/24-12-17-person-tutorials/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://jacklingroup.github.io/tutorials/24-12-17-person-tutorials/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
