@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xi Zhang | BioAI课题组</title>
+    <link>http://localhost:1313/author/xi-zhang/</link>
+      <atom:link href="http://localhost:1313/author/xi-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xi Zhang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>http://localhost:1313/author/xi-zhang/avatar_hu12398430569210942438.jpg</url>
+      <title>Xi Zhang</title>
+      <link>http://localhost:1313/author/xi-zhang/</link>
+    </image>
+    
+  </channel>
+</rss>

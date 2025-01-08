@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 张茜
+title: Xi Zhang
 
 # Full Name (for SEO)
 first_name: Xi

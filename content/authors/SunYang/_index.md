@@ -1,6 +1,6 @@
 ---
 # Display name
-title: SunYang
+title: Yang Sun
 
 # Full Name (for SEO)
 first_name: Yang

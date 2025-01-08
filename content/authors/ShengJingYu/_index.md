@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 盛静宇
+title: Jingyu Sheng
 
 # Full Name (for SEO)
 first_name: Jingyu

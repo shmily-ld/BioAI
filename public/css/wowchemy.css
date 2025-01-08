@@ -9734,7 +9734,50 @@ div.chart {
   overflow-x: auto; }
 
 .universal-wrapper h1 {
-  text-align: center; }
+  text-align: center;
+  font-family: Verdana; }
 
 .cta-group {
-  justify-content: center; }
+  justify-content: center;
+  font-family: Verdana; }
+
+.stream-item.view-compact .stream-meta.article-metadata {
+  font-size: 10px !important;
+  margin: 0.5px;
+  padding: 0; }
+
+.summary-link .article-style {
+  font-size: 10px !important;
+  font-family: Verdana;
+  color: gray;
+  line-height: 1.4; }
+
+.media-body .article-title {
+  font-size: 14px !important;
+  font-family: Verdana;
+  line-height: 1.5;
+  font-weight: normal; }
+
+.ml-3 {
+  order: -1;
+  max-width: none !important;
+  max-height: none !important;
+  width: 250px !important;
+  margin-left: 0 !important; }
+
+.model-image {
+  width: 100% !important;
+  height: auto !important; }
+
+.media.stream-item {
+  margin-bottom: 20px;
+  /* 设置每个条目底部的间距 */ }
+
+.media.stream-item.view-compact {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px !important; }
+
+.media.stream-item img {
+  max-width: 300px; }

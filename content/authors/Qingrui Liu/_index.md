@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 刘晴瑞
+title: Qingrui Liu
 
 # Full Name (for SEO)
 first_name: Liu

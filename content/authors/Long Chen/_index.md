@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 陈龙
+title: Long Chen
 
 # Full Name (for SEO)
 first_name: Long

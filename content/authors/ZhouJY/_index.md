@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 周瑾瑜
+title: Jinyu Zhou
 
 # Full Name (for SEO)
 first_name: Jinyu
