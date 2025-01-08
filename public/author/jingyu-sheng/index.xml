@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jingyu Sheng | BioAI课题组</title>
-    <link>https://jacklingroup.github.io/author/jingyu-sheng/</link>
-      <atom:link href="https://jacklingroup.github.io/author/jingyu-sheng/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:39495/author/jingyu-sheng/</link>
+      <atom:link href="http://localhost:39495/author/jingyu-sheng/index.xml" rel="self" type="application/rss+xml" />
     <description>Jingyu Sheng</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://jacklingroup.github.io/author/jingyu-sheng/avatar_hu2079373027427465966.jpg</url>
+      <url>http://localhost:39495/author/jingyu-sheng/avatar_hu2079373027427465966.jpg</url>
       <title>Jingyu Sheng</title>
-      <link>https://jacklingroup.github.io/author/jingyu-sheng/</link>
+      <link>http://localhost:39495/author/jingyu-sheng/</link>
     </image>
     
   </channel>
