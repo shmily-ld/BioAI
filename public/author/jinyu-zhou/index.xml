@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jinyu Zhou | BioAI课题组</title>
-    <link>http://localhost:39623/author/jinyu-zhou/</link>
-      <atom:link href="http://localhost:39623/author/jinyu-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:44315/author/jinyu-zhou/</link>
+      <atom:link href="http://localhost:44315/author/jinyu-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinyu Zhou</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
-      <url>http://localhost:39623/author/jinyu-zhou/avatar_hu7445465803312950856.jpg</url>
+      <url>http://localhost:44315/author/jinyu-zhou/avatar_hu7445465803312950856.jpg</url>
       <title>Jinyu Zhou</title>
-      <link>http://localhost:39623/author/jinyu-zhou/</link>
+      <link>http://localhost:44315/author/jinyu-zhou/</link>
     </image>
     
   </channel>
