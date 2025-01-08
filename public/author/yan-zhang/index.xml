@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yan Zhang | BioAI课题组</title>
-    <link>http://localhost:33159/author/yan-zhang/</link>
-      <atom:link href="http://localhost:33159/author/yan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:38589/author/yan-zhang/</link>
+      <atom:link href="http://localhost:38589/author/yan-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yan Zhang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 08 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:33159/media/icon_hu11734318148517933569.png</url>
+      <url>http://localhost:38589/media/icon_hu11734318148517933569.png</url>
       <title>Yan Zhang</title>
-      <link>http://localhost:33159/author/yan-zhang/</link>
+      <link>http://localhost:38589/author/yan-zhang/</link>
     </image>
     
     <item>
       <title>CTF-DDI: Constrained tensor factorization for drug--drug interactions prediction</title>
-      <link>http://localhost:33159/publication/ctf-ddi/</link>
+      <link>http://localhost:38589/publication/ctf-ddi/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33159/publication/ctf-ddi/</guid>
+      <guid>http://localhost:38589/publication/ctf-ddi/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

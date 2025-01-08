@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BioAI课题组</title>
-    <link>http://localhost:33159/</link>
-      <atom:link href="http://localhost:33159/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:38589/</link>
+      <atom:link href="http://localhost:38589/index.xml" rel="self" type="application/rss+xml" />
     <description>BioAI课题组</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:33159/media/icon_hu11734318148517933569.png</url>
+      <url>http://localhost:38589/media/icon_hu11734318148517933569.png</url>
       <title>BioAI课题组</title>
-      <link>http://localhost:33159/</link>
+      <link>http://localhost:38589/</link>
     </image>
     
     <item>
       <title>Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models</title>
-      <link>http://localhost:33159/publication/peit/</link>
+      <link>http://localhost:38589/publication/peit/</link>
       <pubDate>Tue, 24 Dec 2024 01:48:07 +0000</pubDate>
-      <guid>http://localhost:33159/publication/peit/</guid>
+      <guid>http://localhost:38589/publication/peit/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -33,17 +33,17 @@
     
     <item>
       <title>如何写自己的个人信息页面</title>
-      <link>http://localhost:33159/tutorials/24-12-17-person-tutorials/</link>
+      <link>http://localhost:38589/tutorials/24-12-17-person-tutorials/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33159/tutorials/24-12-17-person-tutorials/</guid>
+      <guid>http://localhost:38589/tutorials/24-12-17-person-tutorials/</guid>
       <description></description>
     </item>
     
     <item>
       <title>湘潭华银生态园团建</title>
-      <link>http://localhost:33159/event/2024.01/</link>
+      <link>http://localhost:38589/event/2024.01/</link>
       <pubDate>Sat, 28 Sep 2024 13:00:00 +0000</pubDate>
-      <guid>http://localhost:33159/event/2024.01/</guid>
+      <guid>http://localhost:38589/event/2024.01/</guid>
       <description>&lt;!-- Slides can be added in a few ways:
 
 - **Create** slides using Wowchemy&#39;s [_Slides_](https://docs.hugoblox.com/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
@@ -56,9 +56,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>CTF-DDI: Constrained tensor factorization for drug--drug interactions prediction</title>
-      <link>http://localhost:33159/publication/ctf-ddi/</link>
+      <link>http://localhost:38589/publication/ctf-ddi/</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33159/publication/ctf-ddi/</guid>
+      <guid>http://localhost:38589/publication/ctf-ddi/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -75,33 +75,33 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:33159/contact/</link>
+      <link>http://localhost:38589/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33159/contact/</guid>
+      <guid>http://localhost:38589/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>People</title>
-      <link>http://localhost:33159/people/</link>
+      <link>http://localhost:38589/people/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33159/people/</guid>
+      <guid>http://localhost:38589/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tour</title>
-      <link>http://localhost:33159/tour/</link>
+      <link>http://localhost:38589/tour/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33159/tour/</guid>
+      <guid>http://localhost:38589/tour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
-      <link>http://localhost:33159/tutorials/20-12-02-icml-best-paper/</link>
+      <link>http://localhost:38589/tutorials/20-12-02-icml-best-paper/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33159/tutorials/20-12-02-icml-best-paper/</guid>
+      <guid>http://localhost:38589/tutorials/20-12-02-icml-best-paper/</guid>
       <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
 &lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
@@ -110,9 +110,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
-      <link>http://localhost:33159/tutorials/20-12-01-wowchemy-prize/</link>
+      <link>http://localhost:38589/tutorials/20-12-01-wowchemy-prize/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33159/tutorials/20-12-01-wowchemy-prize/</guid>
+      <guid>http://localhost:38589/tutorials/20-12-01-wowchemy-prize/</guid>
       <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
 &lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
@@ -121,9 +121,9 @@ Further event details, including page elements such as image galleries, can be a
     
     <item>
       <title></title>
-      <link>http://localhost:33159/admin/config.yml</link>
+      <link>http://localhost:38589/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33159/admin/config.yml</guid>
+      <guid>http://localhost:38589/admin/config.yml</guid>
       <description></description>
     </item>
     

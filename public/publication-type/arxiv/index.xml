@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arxiv | BioAI课题组</title>
-    <link>http://localhost:33159/publication-type/arxiv/</link>
-      <atom:link href="http://localhost:33159/publication-type/arxiv/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:38589/publication-type/arxiv/</link>
+      <atom:link href="http://localhost:38589/publication-type/arxiv/index.xml" rel="self" type="application/rss+xml" />
     <description>Arxiv</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 24 Dec 2024 01:48:07 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:33159/media/icon_hu11734318148517933569.png</url>
+      <url>http://localhost:38589/media/icon_hu11734318148517933569.png</url>
       <title>Arxiv</title>
-      <link>http://localhost:33159/publication-type/arxiv/</link>
+      <link>http://localhost:38589/publication-type/arxiv/</link>
     </image>
     
     <item>
       <title>Property Enhanced Instruction Tuning for Multi-task Molecule Generation with Large Language Models</title>
-      <link>http://localhost:33159/publication/peit/</link>
+      <link>http://localhost:38589/publication/peit/</link>
       <pubDate>Tue, 24 Dec 2024 01:48:07 +0000</pubDate>
-      <guid>http://localhost:33159/publication/peit/</guid>
+      <guid>http://localhost:38589/publication/peit/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

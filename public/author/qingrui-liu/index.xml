@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qingrui Liu | BioAI课题组</title>
-    <link>http://localhost:33159/author/qingrui-liu/</link>
-      <atom:link href="http://localhost:33159/author/qingrui-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:38589/author/qingrui-liu/</link>
+      <atom:link href="http://localhost:38589/author/qingrui-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Qingrui Liu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
-      <url>http://localhost:33159/author/qingrui-liu/avatar_hu8641414473070007364.jpg</url>
+      <url>http://localhost:38589/author/qingrui-liu/avatar_hu8641414473070007364.jpg</url>
       <title>Qingrui Liu</title>
-      <link>http://localhost:33159/author/qingrui-liu/</link>
+      <link>http://localhost:38589/author/qingrui-liu/</link>
     </image>
     
   </channel>
