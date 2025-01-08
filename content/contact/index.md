@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Openning
 date: 2022-10-24
 
 type: landing
