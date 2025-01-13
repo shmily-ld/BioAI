@@ -1,31 +1,42 @@
 ---
-title: 'CTF-DDI: Constrained tensor factorization for drug--drug interactions prediction'
+title: 'Comprehensive evaluation of deep and graph learning on drug--drug interactions prediction'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Guosheng Han 
-  - Lingzhi Peng
-  - Aocheng Ding
-  - Yan Zhang
-  - Xuan Lin
+  - Lin, Xuan
+  - Dai, Lichang
+  - Zhou, Yafang
+  - Yu, Zu-Guo
+  - Zhang, Wen
+  - Shi, Jian-Yu
+  - Cao, Dong-Sheng
+  - Zeng, Li
+  - Chen, Haowen
+  - Song, Bosheng
+  - others
 
 # author_notes:
+#   - ''
+#   - ''
+#   - ''
 #   - ''
 #   - ''
 #   - ''
 #   - ''
 #   - 'Corresponding author'
+#   - ''
+#   - ''
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 
-date: '2024-07-08T00:00:00Z'
+date: '2023-07-03T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-07-08T00:00:00Z'
+publishDate: '2023-07-03T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -36,7 +47,7 @@ publication_types: ['journal']
 publication: 
 publication_short: 
 
-abstract: Computational approaches for predicting drug–drug interactions (DDI) can significantly facilitate combination therapy and drug discovery. Existing similarity-based methods often overlook simple yet valuable structural information or ignore multiple relationships from biological entities (e.g., target proteins and enzymes). Meanwhile, matrix factorization-based methods can alleviate the inherent sparsity issues in DDI data. However, this line of work usually only considers the original association information of DDI pairs. To address these issues, we proposed a novel tensor factorization strategy with effective constraint terms (CTF-DDI) for potential DDI prediction. Specifically, we first obtained drug features by constructing specific similarity matrices based on drug structure and drug-related biological associations. Then, a novel constrained tensor factorization(CTF) module was designed to further reconstruct drug similarity by introducing Hessian and regularization as constraints. Finally, we trained a deep neural network to extract nonlinear features for DDI prediction. Experimental results on two benchmark datasets demonstrated that the proposed CTF-DDI model outperforms classical tensor factorization and deep learning models. Furthermore, ablation and case studies validated the performance of CTF-DDI in DDI prediction. The source code of CTF-DDI is available at https://github.com/angelfacedac/CTF_DDI.
+abstract: Recent advances and achievements of artificial intelligence (AI) as well as deep and graph learning models have established their usefulness in biomedical applications, especially in drug–drug interactions (DDIs). DDIs refer to a change in the effect of one drug to the presence of another drug in the human body, which plays an essential role in drug discovery and clinical research. DDIs prediction through traditional clinical trials and experiments is an expensive and time-consuming process. To correctly apply the advanced AI and deep learning, the developer and user meet various challenges such as the availability and encoding of data resources, and the design of computational methods. This review summarizes chemical structure based, network based, natural language processing based and hybrid methods, providing an updated and accessible guide to the broad researchers and development community with different domain knowledge. We introduce widely used molecular representation and describe the theoretical frameworks of graph neural network models for representing molecular structures. We present the advantages and disadvantages of deep and graph learning methods by performing comparative experiments. We discuss the potential technical challenges and highlight future directions of deep and graph learning models for accelerating DDIs prediction.
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 

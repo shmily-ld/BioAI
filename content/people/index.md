@@ -21,7 +21,7 @@ sections:
           - Graduated Students
           - Graduate Students
           - Undergraduate Students
-      sort_by: Params.last_name
+      sort_by: Params.start_year
       sort_ascending: true
     design:
       show_interests: false

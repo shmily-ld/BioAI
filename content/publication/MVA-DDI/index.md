@@ -1,42 +1,40 @@
 ---
-title: 'CTF-DDI: Constrained tensor factorization for drug--drug interactions prediction'
+title: 'Interpretable multi-view attention network for drug-drug interaction prediction'
+
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Guosheng Han 
-  - Lingzhi Peng
-  - Aocheng Ding
-  - Yan Zhang
-  - Xuan Lin
+  - Xuan Lin 
+  - Qi Wen 
+  - Sijie Yang 
+  - Zu-Guo Yu 
+  - Yahui Long 
+  - Xiangxiang Zeng 
 
-# author_notes:
-#   - ''
-#   - ''
-#   - ''
-#   - ''
-#   - 'Corresponding author'
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2024-07-08T00:00:00Z'
+date: '18 Jan 2024'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-07-08T00:00:00Z'
+publishDate: '18 Jan 2024'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['journal']
+publication_types: ['conference']
 
 # Publication name and optional abbreviated publication name.
 publication: 
 publication_short: 
 
-abstract: Computational approaches for predicting drug–drug interactions (DDI) can significantly facilitate combination therapy and drug discovery. Existing similarity-based methods often overlook simple yet valuable structural information or ignore multiple relationships from biological entities (e.g., target proteins and enzymes). Meanwhile, matrix factorization-based methods can alleviate the inherent sparsity issues in DDI data. However, this line of work usually only considers the original association information of DDI pairs. To address these issues, we proposed a novel tensor factorization strategy with effective constraint terms (CTF-DDI) for potential DDI prediction. Specifically, we first obtained drug features by constructing specific similarity matrices based on drug structure and drug-related biological associations. Then, a novel constrained tensor factorization(CTF) module was designed to further reconstruct drug similarity by introducing Hessian and regularization as constraints. Finally, we trained a deep neural network to extract nonlinear features for DDI prediction. Experimental results on two benchmark datasets demonstrated that the proposed CTF-DDI model outperforms classical tensor factorization and deep learning models. Furthermore, ablation and case studies validated the performance of CTF-DDI in DDI prediction. The source code of CTF-DDI is available at https://github.com/angelfacedac/CTF_DDI.
+abstract: Drug-drug interaction (DDI) plays an increasingly crucial role in drug discovery. Predicting potential DDI is also essential for clinical research. Given the high cost and risk of wet-lab experiments, in-silico DDI prediction is an alternative choice. Recently, deep learning methods have been developed for DDI prediction. However, most of existing methods focus on feature extraction from either molecular SMILES sequences or drug interactive networks, ignoring the valuable complementary information that can be derived from these two views. In this paper, we propose a novel interpretable Multi-View Attention network (MVA-DDI) for DDI prediction. MVA-DDI can effectively extracts drug representations from different perspectives to improve DDI prediction. Specifically, for a given drug, we design a transformer-based encoder and a graph convolutional networkbased encoder to learn sequence and graph representations from SMILES sequence and molecular graph, respectively. To fully exploit the complementary information between the sequence and molecular views, an attention mechanism is further adopted to adaptively aggregate the sequence and graph representations by taking the importance of different views into accounts, generating the final drug representations. Comparison experiments demonstrated that our MVA-DDI 1 model achieved superior performance to state-of-the-art models on DDI prediction.
+
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 

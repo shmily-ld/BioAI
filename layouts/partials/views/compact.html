@@ -18,7 +18,7 @@
 
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
-{{/* Get summary. */}}
+<!-- {{/* Get summary. */}}
 {{ $summary := "" }}
 {{ if $item.Params.summary }}
   {{ $summary = $item.Params.summary | markdownify | emojify }}
@@ -26,7 +26,7 @@
   {{ $summary = $item.Params.abstract | markdownify | emojify | truncate (site.Params.abstract_length | default 370) }}
 {{ else if $item.Summary }}
   {{ $summary = $item.Summary }}
-{{ end }}
+{{ end }} -->
 
 <div class="media stream-item view-compact">
   <div class="media-body">
@@ -35,13 +35,13 @@
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
     </div>
 
-    {{ with $summary }}
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
-      <div class="article-style">
+    <!-- {{ with $summary }}
+    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link"> -->
+      <!-- <div class="article-style">
         {{.}}
       </div>
     </a>
-    {{ end }}
+    {{ end }} -->
 
     <div class="stream-meta article-metadata">
 

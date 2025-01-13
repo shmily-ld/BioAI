@@ -1,31 +1,28 @@
 ---
-title: 'CTF-DDI: Constrained tensor factorization for drug--drug interactions prediction'
+title: 'Deep learning for drug repurposing: Methods, databases, and applications'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Guosheng Han 
-  - Lingzhi Peng
-  - Aocheng Ding
-  - Yan Zhang
+  - Xiaoqin Pan
   - Xuan Lin
+  - Dongsheng Cao 
+  - Xiangxiang Zeng
+  - Lifang He
+  - Nussinov, Ruth
+  - Feixiong Cheng 
 
-# author_notes:
-#   - ''
-#   - ''
-#   - ''
-#   - ''
-#   - 'Corresponding author'
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2024-07-08T00:00:00Z'
+date: '08 Feb 2022'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-07-08T00:00:00Z'
+publishDate: '08 Feb 2022'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -36,7 +33,8 @@ publication_types: ['journal']
 publication: 
 publication_short: 
 
-abstract: Computational approaches for predicting drug–drug interactions (DDI) can significantly facilitate combination therapy and drug discovery. Existing similarity-based methods often overlook simple yet valuable structural information or ignore multiple relationships from biological entities (e.g., target proteins and enzymes). Meanwhile, matrix factorization-based methods can alleviate the inherent sparsity issues in DDI data. However, this line of work usually only considers the original association information of DDI pairs. To address these issues, we proposed a novel tensor factorization strategy with effective constraint terms (CTF-DDI) for potential DDI prediction. Specifically, we first obtained drug features by constructing specific similarity matrices based on drug structure and drug-related biological associations. Then, a novel constrained tensor factorization(CTF) module was designed to further reconstruct drug similarity by introducing Hessian and regularization as constraints. Finally, we trained a deep neural network to extract nonlinear features for DDI prediction. Experimental results on two benchmark datasets demonstrated that the proposed CTF-DDI model outperforms classical tensor factorization and deep learning models. Furthermore, ablation and case studies validated the performance of CTF-DDI in DDI prediction. The source code of CTF-DDI is available at https://github.com/angelfacedac/CTF_DDI.
+abstract: Drug development is time-consuming and expensive. Repurposing existing drugs for new therapies is an attractive solution that accelerates drug development at reduced experimental costs, specifically for Coronavirus Disease 2019 (COVID-19), an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). However, comprehensively obtaining and productively integrating available knowledge and big biomedical data to effectively advance deep learning models is still challenging for drug repurposing in other complex diseases. In this review, we introduce guidelines on how to utilize deep learning methodologies and tools for drug repurposing. We first summarized the commonly used bioinformatics and pharmacogenomics databases for drug repurposing. Next, we discuss recently developed sequence-based and graph-based representation approaches as well as state-of-the-art deep learning-based methods. Finally, we present applications of drug repurposing to fight the COVID-19 pandemic and outline its future challenges.
+
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 

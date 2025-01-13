@@ -1,31 +1,27 @@
 ---
-title: 'CTF-DDI: Constrained tensor factorization for drug--drug interactions prediction'
+title: 'Effectively identifying compound-protein interaction using graph neural representation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Guosheng Han 
-  - Lingzhi Peng
-  - Aocheng Ding
-  - Yan Zhang
-  - Xuan Lin
+  - Lin, Xuan
+  - Quan, Zhe
+  - Wang, Zhi-Jie
+  - Guo, Yan
+  - Xiangxiang Zeng
+  - Philip, S Yu
 
-# author_notes:
-#   - ''
-#   - ''
-#   - ''
-#   - ''
-#   - 'Corresponding author'
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2024-07-08T00:00:00Z'
+date: '11 Aug 2022'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-07-08T00:00:00Z'
+publishDate: '11 Aug 2022'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -36,7 +32,8 @@ publication_types: ['journal']
 publication: 
 publication_short: 
 
-abstract: Computational approaches for predicting drug–drug interactions (DDI) can significantly facilitate combination therapy and drug discovery. Existing similarity-based methods often overlook simple yet valuable structural information or ignore multiple relationships from biological entities (e.g., target proteins and enzymes). Meanwhile, matrix factorization-based methods can alleviate the inherent sparsity issues in DDI data. However, this line of work usually only considers the original association information of DDI pairs. To address these issues, we proposed a novel tensor factorization strategy with effective constraint terms (CTF-DDI) for potential DDI prediction. Specifically, we first obtained drug features by constructing specific similarity matrices based on drug structure and drug-related biological associations. Then, a novel constrained tensor factorization(CTF) module was designed to further reconstruct drug similarity by introducing Hessian and regularization as constraints. Finally, we trained a deep neural network to extract nonlinear features for DDI prediction. Experimental results on two benchmark datasets demonstrated that the proposed CTF-DDI model outperforms classical tensor factorization and deep learning models. Furthermore, ablation and case studies validated the performance of CTF-DDI in DDI prediction. The source code of CTF-DDI is available at https://github.com/angelfacedac/CTF_DDI.
+abstract: Effectively identifying compound-protein interactions (CPIs) is crucial for new drug design, which is an important step in silico drug discovery. Current machine learning methods for CPI prediction mainly use one-demensional (1D) compound/protein strings and/or the specific descriptors. However, they often ignore the fact that molecules are essentially modeled by the molecular graph. We observe that in real-world scenarios, the topological structure information of the molecular graph usually provides an overview of how the atoms are connected, and the local chemical context reveals the functionality of the protein sequence in CPI. These two types of information are complementary to each other and they are both significant for modeling compound-protein pairs. Motivated by this, we propose an end-to-end deep learning framework named GraphCPI , which captures the structural information of compounds and leverages the chemical context of protein sequences for solving the CPI prediction task. Our framework can integrate any popular graph neural networks for learning compounds, and it combines with a convolutional neural network for embedding sequences. To compare our method with classic and state-of-the-art deep learning methods, we conduct extensive experiments based on several widely-used CPI datasets. The experimental results show the feasibility and competitiveness of our proposed method.
+
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 

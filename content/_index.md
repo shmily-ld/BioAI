@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        We are a group of researchers with a wide range of expertise in the fields of machine learning, natural language processing, and computer vision.
+        Our research focuses on developing and applying advanced algorithms and techniques to solve challenging problems in biology, medicine, and healthcare.
   
   # - block: collection
   #   content:

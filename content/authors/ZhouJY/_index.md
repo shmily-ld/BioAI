@@ -11,6 +11,7 @@ superuser: true
 
 # Role/position
 role: 2023 graduate student
+start_year: 2023
 
 # Organizations/Affiliations
 organizations:

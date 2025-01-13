@@ -11,6 +11,7 @@ superuser: false
 
 # Role/position
 role: 2022 graduate student
+start_year: 2022
 
 # Organizations/Affiliations
 organizations:

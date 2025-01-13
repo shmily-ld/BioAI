@@ -11,6 +11,7 @@ superuser: true
 
 # Role/position
 role: 2024 graduate student
+start_year: 2024
 
 # Organizations/Affiliations
 organizations:

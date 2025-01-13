@@ -1,31 +1,26 @@
 ---
-title: 'CTF-DDI: Constrained tensor factorization for drug--drug interactions prediction'
+title: 'Kg-mtl: knowledge graph enhanced multi-task learning for molecular interaction'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Guosheng Han 
-  - Lingzhi Peng
-  - Aocheng Ding
-  - Yan Zhang
+  - Tengfei Ma
   - Xuan Lin
+  - Bosheng Song
+  - Philip S Yu 
+  - Xiangxiang Zeng
 
-# author_notes:
-#   - ''
-#   - ''
-#   - ''
-#   - ''
-#   - 'Corresponding author'
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2024-07-08T00:00:00Z'
+date: '04 Jul 2022'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-07-08T00:00:00Z'
+publishDate: '04 Jul 2022'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -36,7 +31,8 @@ publication_types: ['journal']
 publication: 
 publication_short: 
 
-abstract: Computational approaches for predicting drug–drug interactions (DDI) can significantly facilitate combination therapy and drug discovery. Existing similarity-based methods often overlook simple yet valuable structural information or ignore multiple relationships from biological entities (e.g., target proteins and enzymes). Meanwhile, matrix factorization-based methods can alleviate the inherent sparsity issues in DDI data. However, this line of work usually only considers the original association information of DDI pairs. To address these issues, we proposed a novel tensor factorization strategy with effective constraint terms (CTF-DDI) for potential DDI prediction. Specifically, we first obtained drug features by constructing specific similarity matrices based on drug structure and drug-related biological associations. Then, a novel constrained tensor factorization(CTF) module was designed to further reconstruct drug similarity by introducing Hessian and regularization as constraints. Finally, we trained a deep neural network to extract nonlinear features for DDI prediction. Experimental results on two benchmark datasets demonstrated that the proposed CTF-DDI model outperforms classical tensor factorization and deep learning models. Furthermore, ablation and case studies validated the performance of CTF-DDI in DDI prediction. The source code of CTF-DDI is available at https://github.com/angelfacedac/CTF_DDI.
+abstract: Molecular interaction prediction is essential in various applications including drug discovery and material science. The problem becomes quite challenging when the interaction is represented by unmapped relationships in molecular networks, namely molecular interaction, because it easily suffers from (i) insufficient labeled data with many false-positive samples, and (ii) ignoring a large number of biological entities with rich information in the knowledge graph. Most of the existing methods cannot properly exploit the information of knowledge graph and molecule graph simultaneously. In this paper, we propose a large-scale K nowledge G raph enhanced M ulti- T ask L earning model, namely KG-MTL, which extracts the features from both knowledge graph and molecular graph in a synergistic way. Moreover, we design an effective Shared Unit that helps the model to jointly preserve the semantic relations of drug entity and the neighbor structures of the compound in both knowledge graph and molecular graph. Extensive experiments on four real-world datasets demonstrate that our proposed KG-MTL outperforms the state-of-the-art methods on two representative molecular interaction prediction tasks drug-target interaction prediction and compound-protein interaction prediction. The source code of KG-MTL is available at https://github.com/xzenglab/KG-MTL.
+
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -81,8 +77,8 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-<!-- {{% callout note %}}
+<!-- 
+{{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 

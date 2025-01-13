@@ -1,42 +1,38 @@
 ---
-title: 'CTF-DDI: Constrained tensor factorization for drug--drug interactions prediction'
+title: 'KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Guosheng Han 
-  - Lingzhi Peng
-  - Aocheng Ding
-  - Yan Zhang
-  - Xuan Lin
+  - Lin, Xuan
+  - Quan, Zhe
+  - Wang, Zhi-Jie
+  - Ma, Tengfei 
+  - Xiangxiang Zeng
 
-# author_notes:
-#   - ''
-#   - ''
-#   - ''
-#   - ''
-#   - 'Corresponding author'
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2024-07-08T00:00:00Z'
+date: '01 Jul 2020'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-07-08T00:00:00Z'
+publishDate: '01 Jul 2020'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['journal']
+publication_types: ['conference']
 
 # Publication name and optional abbreviated publication name.
 publication: 
 publication_short: 
 
-abstract: Computational approaches for predicting drug–drug interactions (DDI) can significantly facilitate combination therapy and drug discovery. Existing similarity-based methods often overlook simple yet valuable structural information or ignore multiple relationships from biological entities (e.g., target proteins and enzymes). Meanwhile, matrix factorization-based methods can alleviate the inherent sparsity issues in DDI data. However, this line of work usually only considers the original association information of DDI pairs. To address these issues, we proposed a novel tensor factorization strategy with effective constraint terms (CTF-DDI) for potential DDI prediction. Specifically, we first obtained drug features by constructing specific similarity matrices based on drug structure and drug-related biological associations. Then, a novel constrained tensor factorization(CTF) module was designed to further reconstruct drug similarity by introducing Hessian and regularization as constraints. Finally, we trained a deep neural network to extract nonlinear features for DDI prediction. Experimental results on two benchmark datasets demonstrated that the proposed CTF-DDI model outperforms classical tensor factorization and deep learning models. Furthermore, ablation and case studies validated the performance of CTF-DDI in DDI prediction. The source code of CTF-DDI is available at https://github.com/angelfacedac/CTF_DDI.
+abstract: Drug-drug interaction (DDI) prediction is a challenging problem in pharmacology and clinical application, and effectively identifying potential DDIs during clinical trials is critical for patients and society. Most of existing computational models with AI techniques often concentrate on integrating multiple data sources and combining popular embedding methods together. Yet, researchers pay less attention to the potential correlations between drug and other entities such as targets and genes. Moreover, recent studies also adopted knowledge graph (KG) for DDI prediction. Yet, this line of methods learn node latent embedding directly, but they are limited in obtaining the rich neighborhood information of each entity in KG. To address the above limitations, we propose an end-to-end framework, called Knowledge Graph Neural Network (KGNN), to resolve the DDI prediction. Our framework can effectively capture drug and its potential neighborhoods by mining their associated relations in KG. To extract both high-order structures andsemantic relations of the KG, we learn from the neighborhoods for each entity in KG as their local receptive, and then integrate neighborhood information with bias from representation of the current entity. This way, the receptive field can be naturally extended to multiple hops away to model highorder topological information and to obtain drugs potential long-distance correlations. We haveimplemented our method and conducted experiments based on several widely-used datasets. Empirical results show that KGNN outperforms the classic and state-of-the-art models.
+
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 

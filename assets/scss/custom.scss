@@ -1,27 +1,27 @@
 .stream-item.view-compact .stream-meta.article-metadata {
-    font-size: 10px!important;
+    font-size: 14px!important;
     margin: 0.5px;
     padding: 0;
   }
 
 .summary-link .article-style {
-    font-size: 10px!important; 
+    font-size: 12px!important; 
     font-family: Verdana;
     color: gray; 
     line-height: 1.4;    
   }
 
 .media-body .article-title {
-    font-size: 14px!important;
+    font-size: 18px!important;
     font-family: Verdana;
     line-height: 1.5;    
-    font-weight: normal;
+    font-weight: 500;
   }
 
 .ml-3 {
     order: -1;
     max-width: none!important; 
-    max-height: none!important;
+    max-height: 250!important;
     width: 250px!important;     
     margin-left: 0 !important;
   }
@@ -39,13 +39,91 @@
 .media.stream-item.view-compact {
     display: flex;
     flex-direction: row;  
-    align-items: center;
+    // align-items: center;
     gap: 20px!important; 
   }
 
 
 .media.stream-item img {
     max-width: 300px;
+    max-height: 120px;
 }
 
+.grid-sizer {
+  padding:0 ;
 
+}
+
+//people
+.people-widget {
+  display: flex;
+  flex-wrap: wrap; /* 允许换行 */
+  justify-content: center; /* 居中对齐 */
+  gap: 20px; /* 设置元素之间的间距 */
+}
+
+.people-person {
+  flex: 0 0 calc(33.333% - 20px); /* 每个子项占宽度的三分之一，减去间距 */
+  max-width: calc(33.333% - 20px); /* 确保子项宽度不超过容器 */
+  box-sizing: border-box; /* 包括内边距和边框在宽度计算中 */
+}
+
+@media (max-width: 768px) {
+  .people-person {
+      flex: 0 0 calc(50% - 20px); /* 在小屏幕上每行放两个 */
+      max-width: calc(50% - 20px);
+  }
+}
+
+@media (max-width: 576px) {
+  .people-person {
+      flex: 0 0 100%; /* 在更小屏幕上每行放一个 */
+      max-width: 100%;
+  }
+}
+
+//search
+
+.form-control {
+  position: relative;
+  margin: 20px 0 40px;
+  width: 190px;
+}
+
+.form-control input{
+  background-color: transparent;
+  border: 0;
+  border-bottom: 2px #fff solid;
+  display: block;
+  width: 100%;
+  padding: 15px 0;
+  font-size: 18px;
+  color: #fff;
+}
+
+.form-control input:focus,
+.form-control input:valid {
+  outline: 0;
+  border-bottom-color: lightblue;
+}
+
+#search-box label {
+  position: absolute;
+  top: 15px;
+  left: 0;
+  pointer-events: none;
+}
+
+.form-control label span {
+  display: inline-block;
+  font-size: 18px;
+  min-width: 5px;
+  color: #fff;
+  transition: 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.form-control input:focus+label span,
+.form-control input:valid+label span {
+  color: lightblue;
+  transform: translateY(-30px);
+}
