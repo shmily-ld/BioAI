@@ -10,15 +10,27 @@ main:
   # - name: Tutorials
   #   url: tutorials
   #   weight: 20
+  # - name: Home
+  #   url: home_
+    # weight: 20
   - name: People
     url: people
     weight: 30
-  - name: Events
-    url: event
+  - name: Gallery
+    url: gallery
     weight: 40
   - name: Publications
     url: publication
     weight: 50
+  # - name: Web Servers
+  #   url: web_server
+  #   weight: 60
+  - name: News
+    url: news
+    weight: 70
+  # - name: Tutorials
+  #   url: tutorials
+  #   weight: 80
   - name: Contact
     url: contact
-    weight: 60
+    weight: 90

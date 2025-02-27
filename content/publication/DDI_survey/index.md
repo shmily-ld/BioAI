@@ -5,16 +5,16 @@ title: 'Comprehensive evaluation of deep and graph learning on drug--drug intera
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Lin, Xuan
-  - Dai, Lichang
-  - Zhou, Yafang
-  - Yu, Zu-Guo
-  - Zhang, Wen
-  - Shi, Jian-Yu
-  - Cao, Dong-Sheng
-  - Zeng, Li
-  - Chen, Haowen
-  - Song, Bosheng
+  - Xuan Lin
+  - Lichang Dai
+  - Yafang Zhou
+  - Zu-Guo Yu
+  - Wen Zhang 
+  - Jian-Yu Shi
+  - Dong-Sheng Cao
+  - Li Zeng
+  - Haowen Chen
+  - Bosheng Song
   - others
 
 # author_notes:

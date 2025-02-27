@@ -47,9 +47,9 @@ header:
 
 footer:
   copyright:
-    notice: '© 2024 BioAI Lab. This work is licensed under {license}'
+    notice: '© 2024 BioAI Lab.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: false
       allow_commercial: false

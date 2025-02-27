@@ -1,10 +1,6 @@
 ---
-title: 湘潭华银生态园团建
+title: '[BIBM2024]CSCL-DTI: predicting drug-target interaction through cross-view and self-supervised contrastive learning'
 
-# event: 2024下半学年团建
-# event_url: https://example.org
-
-location: 湘潭华银生态园
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,23 +8,22 @@ location: 湘潭华银生态园
 #   postcode: '94305'
 #   country: United States
 
-summary: Xiangtan Huayin Ecological Garden Tuanjian Team Building
-abstract: '2024年9月28日，湘潭艳阳高照，风景如画，我们BioAI课题组的同学，在林老师的组织带领下，相聚来到华银生态园观景，园内有林荫小道，亭台楼阁等秀美景观，适合休闲娱乐和红色文化教育，园内还设有散步道，自行车道和游乐设施，可以让远离乡村郊野的游客，亲近自然，放松心情，同学们在园区内玩得尽兴开心，真是乐而忘返！'
-
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-09-28T13:00:00Z'
+date: '2024-10-28T13:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [Xuan Lin]
+authors:
+  - ZhangXi
 tags: []
+type: "news" 
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -61,3 +56,4 @@ projects:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
 
 Further event details, including page elements such as image galleries, can be added to the body of this page. -->
+Congratulations to Xi Zhang for publishing this work. Best wishes to her for an even brighter future.

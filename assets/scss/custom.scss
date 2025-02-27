@@ -127,3 +127,24 @@
   color: lightblue;
   transform: translateY(-30px);
 }
+
+//主页
+.home-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.left-column, .right-column {
+  width: 48%; /* 每列占 48% 宽度，剩下的空间会留给间隔 */
+}
+
+.left-column {
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+.right-column {
+  background-color: #ffffff;
+  padding: 20px;
+}

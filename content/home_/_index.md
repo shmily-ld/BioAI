@@ -14,31 +14,9 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
+        
         Our research focuses on developing and applying advanced algorithms and techniques to solve challenging problems in biology, medicine, and healthcare.
-
-
-  - block: collection
-    content:
-      title: |
-        RESENT POSTS
-      count: 3
-      filters:
-        folders:
-          - news
-      design:
-        view: ciation
-        columns: '1'
-      
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle:
-  #     text: |
-  #       {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-  #   design:
-  #     columns: '1'
-
-
+  
   # - block: collection
   #   content:
   #     title: Recent Tutorials
@@ -91,4 +69,12 @@ sections:
   #     view: citation
   #     columns: '1'
 
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
 ---

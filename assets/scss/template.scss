@@ -1,12 +1,19 @@
 // Make page header alignment consistent with widget page header alignment
 .universal-wrapper h1 {
   text-align: center;
-  font-family: Verdana
+  font-family: Verdana;
+  // font-size: 24px;
 }
 
 // Center the CTA shortcode button
 .cta-group {
   justify-content: center;
   font-family: Verdana
+}
+
+.article-container h1 {
+  font-size:32px;  /* 修改字体大小 */
+  // text-align: center;  /* 如果你想让标题居中 */
+  font-family: Verdana;  /* 设置字体 */
 }
 

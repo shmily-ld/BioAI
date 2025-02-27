@@ -5,10 +5,10 @@ title: 'Effectively identifying compound-protein interaction using graph neural 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Lin, Xuan
-  - Quan, Zhe
-  - Wang, Zhi-Jie
-  - Guo, Yan
+  - Xuan Lin
+  - Zhe Quan
+  - Zhi-Jie Wang
+  - Yan Guo
   - Xiangxiang Zeng
   - Philip, S Yu
 
