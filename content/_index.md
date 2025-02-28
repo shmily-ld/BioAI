@@ -9,7 +9,7 @@ type: landing
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script type="text/javascript">
     if (window.location.pathname === '/') {
-      window.location.href = 'https://example.com/tour/';
+      window.location.href = 'https://shmily-ld.github.io/BioAI/tour/';
     }
   </script>
   <title>{{ .Title }}</title>
