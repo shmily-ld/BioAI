@@ -11,10 +11,12 @@ sections:
         BioAI
         Research Group
       image:
-        filename: welcome.jpg
+        filename: welcome1.jpg
       text: |
         <br>
-        Our research focuses on developing and applying advanced algorithms and techniques to solve challenging problems in biology, medicine, and healthcare.
+        Welcome to the BioAI Lab at the School of Computer Science, Xiangtan University!<br>
+        <br>
+        Our lab is dedicated to advancing the frontiers of artificial intelligence, multimodal large models, and intelligent drug discovery. We invite you to explore our research and join us in shaping the future of AI-driven healthcare! Our ultimate ambition is to build a transformative framework for end-to-end intelligent drug discovery, leveraging cutting-edge AI technologies to design and optimize therapeutic molecules. 
 
 
   - block: collection

@@ -1,0 +1,28 @@
+{{- define "main" -}}
+
+{{/* Check that user fully installed Hugo Blox Builder. */}}
+{{/* Commented out to allow user to have no params.yaml and just use the defaults. */}}
+{{/* if not (isset site.Params "seo") */}}
+{{/* errorf "Please complete the installation of Hugo Blox Builder by following the steps at https://docs.hugoblox.com/" */}}
+{{/* end */}}
+
+{{/* Deprecation warnings */}}
+{{/* Add here... */}}
+
+{{/* Generate homepage. */}}
+{{/* if eq .Type "landing" */}}{{/* Uncomment check once support other content types on homepage. */}}
+{{ partial "landing_page.html" . }}
+
+<div class="home-container">
+    <div class="left-column">
+    <h2>1</h2>
+      {{ block "collection" . }}
+      {{ end }}
+    </div>
+
+    <div class="right-column">
+        {{ block "hero" . }}
+        {{ end }}
+    </div>
+  </div>
+{{- end -}}

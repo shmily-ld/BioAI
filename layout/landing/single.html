@@ -1,0 +1,15 @@
+{{- define "main" -}}
+{{ partial "landing_page.html" . }}
+<div class="home-container">
+    <div class="left-column">
+    <h2>bioai</h2>
+      {{ block "collection" . }}
+      {{ end }}
+    </div>
+
+    <div class="right-column">
+        {{ block "hero" . }}
+        {{ end }}
+    </div>
+  </div>
+{{- end -}}

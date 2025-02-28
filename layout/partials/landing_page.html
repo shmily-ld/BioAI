@@ -1,0 +1,43 @@
+{{ range $index, $block := .Params.sections }}
+  {{ if eq $block.block "hero" }}
+    <!-- 左侧 Hero Block -->
+    <div class="container" style="display: flex;">
+      <div class="left-column" style="width: 50%; padding: 10px;">
+        <h3>RECENT POSTS</h3>
+        {{ partial "blox/collection" $block.content }}
+        <!-- {{ partial "blocks/collection" . }} -->
+        <!-- <p>Collection Partial Loaded</p> -->
+      </div>
+  {{ end }}
+
+  {{ if eq $block.block "collection" }}
+      <!-- 右侧 Collection Block -->
+      <div class="right-column" style="width: 50%; padding: 10px;">
+        <p>Welcome to GENerative Therapeutics design and Evolutionary Learning (GENTEL) lab at Global Institute of Future Technology (GIFT), Shanghai Jiao Tong University. </p>
+        <p>
+          Our lab encodes principles from computer science, biology, and chemistry to decode the complexities of biomolecular interactions across both molecular and systematic scales. 
+          Through a deep understanding of these intricate interactions, we design biomolecules that can effectively regulate diseases. Our research is driven by the dual challenges of 
+          solving fundamental problems in life science and advancing the state-of-the-art in machine learning. Our ultimate ambition is to create a transformative world model for 
+          end-to-end intelligent drug discovery. </p>
+        {{ partial "blocks/hero" $block.content }}
+
+      </div>
+    </div> <!-- 结束 Flex 容器 -->
+  {{ end }}
+
+  {{ if eq $block.block "markdown" }}
+    <!-- Markdown Section -->
+    <div class="markdown-section" style="margin-top: 20px; padding: 10px;">
+      <h3>Markdown Block:</h3>
+      {{ $block.content.text | safeHTML }}
+    </div>
+  {{ end }}
+{{ end }}
+
+<!-- {{/* Load Hugo Blox */}}
+{{ range $index, $block := .Params.sections }}
+  {{/* Do not show sections intended only for the demo site. */}}
+  {{ if or (not $block.demo) ($block.demo | and (eq (os.Getenv "HUGO_BLOX_DEMO") "true")) }}
+    {{ partial "functions/parse_block_v2" (dict "page" $ "block" $block) }}
+  {{ end }}
+{{ end }} -->
