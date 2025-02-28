@@ -4,9 +4,16 @@ title:
 date: 2022-10-24
 type: landing
 ---
-<script type="text/javascript">
-  window.location.href = 'https://shmily-ld.github.io/BioAI/tour/';
-</script>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script type="text/javascript">
+    if (window.location.pathname === '/') {
+      window.location.href = 'https://example.com/tour/';
+    }
+  </script>
+  <title>{{ .Title }}</title>
+</head>
 
 sections:
   - block: hero
