@@ -3,7 +3,7 @@
 title:
 date: 2022-10-24
 type: landing
-
+---
 <script type="text/javascript">
   window.location.href = '/tour/';
 </script>
