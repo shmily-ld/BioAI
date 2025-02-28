@@ -3,8 +3,10 @@
 title:
 date: 2022-10-24
 type: landing
-url: "/tour/"
-layout: "redirect"
+
+<script type="text/javascript">
+  window.location.href = '/tour/';
+</script>
 
 sections:
   - block: hero
