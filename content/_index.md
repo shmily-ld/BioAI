@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 ---
 <script type="text/javascript">
-  window.location.href = '/tour/';
+  window.location.href = 'https://shmily-ld.github.io/BioAI/tour/';
 </script>
 
 sections:
