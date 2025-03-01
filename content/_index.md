@@ -18,11 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: About BioAI Group 🧬
+      - title: <div style="text-align: right; margin-left:-10%; font-family:'华文新魏'; font-size:40px; color: white;">About BioAI Group 🧬</div>
         content: |
-            <div style="text-align: right; margin-left:-10%; font-family:'华文新魏'; font-size:40px; color: white;">
-      <h2>About BioAI Group 🧬</h2>
-    </div>
           <br>
           <div style="font-family:'华文新魏';font-size:28px;line-height:1.8;color:white; width: 60%; margin: 0 auto; text-align: left; margin-left: -10%;">
             Our lab is dedicated to advancing the frontiers of artificial intelligence, multimodal large models, and intelligent drug discovery. <br>  
