@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: <div style="font-size:40px;line-height:1.8;color:white; width: 60%; margin: 0 auto; text-align: center; margin-left: -10%;">About BioAI Group 🧬</div>
+      - title: About BioAI Group 🧬
         content: |
           <br>
           <div style="font-family:'华文新魏';font-size:28px;line-height:1.8;color:white; width: 60%; margin: 0 auto; text-align: left; margin-left: -10%;">
