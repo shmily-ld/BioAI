@@ -36,10 +36,10 @@ sections:
           color: '#555'
       - title: Research Areas 🔬
         content: |
-          <div style="font-family: Cambria; font-size:32px;line-height:1.8;color:white; width: 70%; margin: 0 auto; text-align: left;">
+          <div style="font-family: Cambria; font-size:32px;line-height:1.8;color:white; width: 70%; margin: 0 auto; text-align: center;">
             Our research spans several cutting-edge fields:
           </div>
-          <div style="font-family: Times New Roman, serif; font-style: italic; font-size:32px;line-height:1.8;color:white; width: 70%; margin: 0 auto; text-align: left;">
+          <div style="font-family: Times New Roman, serif; font-style: italic; font-size:32px;line-height:1.8;color:white; width: 70%; margin: 0 auto; text-align: center;">
            1. AI for Drug Discovery <br>
            2. Multimodal Learning <br>
            3. Graph Neural Networks <br>
