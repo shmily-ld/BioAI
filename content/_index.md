@@ -26,7 +26,7 @@ sections:
             We invite you to explore our research and join us in shaping the future of AI-driven healthcare!  <br>
             Our ultimate ambition is to build a transformative framework for end-to-end intelligent drug discovery, leveraging cutting-edge AI technologies to design and optimize therapeutic molecules.
           </div>
-        align: center
+        align: right
         background:
           image:
             filename: 2.jpg
