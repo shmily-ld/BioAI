@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: 👋 Welcome to BioAI Lab at the School of Computer Science, Xiangtan University!
         content: Take a look at what we're working on...
         align: center
         background:
@@ -18,18 +18,24 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: About BioAI Group 🧬
+        content: Our lab is dedicated to advancing the frontiers of artificial intelligence, multimodal large models, and intelligent drug discovery.  
+          We invite you to explore our research and join us in shaping the future of AI-driven healthcare!  
+          Our ultimate ambition is to build a transformative framework for end-to-end intelligent drug discovery, leveraging cutting-edge AI technologies to design and optimize therapeutic molecules.
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: 2.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Research Areas 🔬
+        content:     Our research spans several cutting-edge fields:
+    - **AI for Drug Discovery**: Developing intelligent models for molecular design and optimization.
+    - **Multimodal Learning**: Integrating diverse biological data for enhanced predictions.
+    - **Graph Neural Networks**: Leveraging structural insights for protein-ligand interactions.
+    - **Generative AI**: Exploring deep learning methods for novel molecule generation.
         align: right
         background:
           image:
