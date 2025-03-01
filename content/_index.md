@@ -18,13 +18,13 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: About BioAI Group 🧬
+      - title: About BioAI Research Group 🧬
         content: |
           <br>
           <div style="font-family:'Cambria';font-size:28px;line-height:1.8;color:white; width: 70%; margin: 0 auto; text-align: left;">
-            Our lab is dedicated to advancing the frontiers of artificial intelligence, multimodal large models, and intelligent drug discovery. <br>  
-            We invite you to explore our research and join us in shaping the future of AI-driven healthcare!  <br>
-            Our ultimate ambition is to build a transformative framework for end-to-end intelligent drug discovery, leveraging cutting-edge AI technologies to design and optimize therapeutic molecules.
+            ⧫ Our lab is dedicated to advancing the frontiers of artificial intelligence, multimodal large models, and intelligent drug discovery. <br>  
+            ⧫ We invite you to explore our research and join us in shaping the future of AI-driven healthcare!  <br>
+            ⧫ Our ultimate ambition is to build a transformative framework for end-to-end intelligent drug discovery, leveraging cutting-edge AI technologies to design and optimize therapeutic molecules. <br>
           </div>
         align: center
         background:
@@ -36,12 +36,16 @@ sections:
           color: '#555'
       - title: Research Areas 🔬
         content: |
-          Our research spans several cutting-edge fields:
-           **AI for Drug Discovery**: Developing intelligent models for molecular design and optimization.
-           **Multimodal Learning**: Integrating diverse biological data for enhanced predictions.
-           **Graph Neural Networks**: Leveraging structural insights for protein-ligand interactions.
-           **Generative AI**: Exploring deep learning methods for novel molecule generation.
-        align: right
+          <div style="font-size:32px;line-height:1.8;color:white; width: 70%; margin: 0 auto; text-align: left;">
+            Our research spans several cutting-edge fields:
+          </div>
+          <div style="font-family: Cambria, serif; font-style: italic; font-size:32px;line-height:1.8;color:white; width: 70%; margin: 0 auto; text-align: left;">
+           1. AI for Drug Discovery**: Developing intelligent models for molecular design and optimization. <br>
+           2. Multimodal Learning**: Integrating diverse biological data for enhanced predictions. <br>
+           3. Graph Neural Networks**: Leveraging structural insights for protein-ligand interactions. <br>
+           4. Generative AI**: Exploring deep learning methods for novel molecule generation. <br>
+          </div>
+        align: center
         background:
           image:
             filename: welcome.jpg
