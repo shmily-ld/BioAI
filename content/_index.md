@@ -20,16 +20,19 @@ sections:
           color: '#666'
       - title: About BioAI Group 🧬
         content: |
-          Our lab is dedicated to advancing the frontiers of artificial intelligence, multimodal large models, and intelligent drug discovery.  
-          We invite you to explore our research and join us in shaping the future of AI-driven healthcare!  
-          Our ultimate ambition is to build a transformative framework for end-to-end intelligent drug discovery, leveraging cutting-edge AI technologies to design and optimize therapeutic molecules.
-        align: left
+          <br>
+          <div style="font-family: Arial, sans-serif; font-size: 18px; line-height: 1.5;">
+            Our lab is dedicated to advancing the frontiers of artificial intelligence, multimodal large models, and intelligent drug discovery.  
+            We invite you to explore our research and join us in shaping the future of AI-driven healthcare!  
+            Our ultimate ambition is to build a transformative framework for end-to-end intelligent drug discovery, leveraging cutting-edge AI technologies to design and optimize therapeutic molecules.
+          </div>
+        align: center
         background:
           image:
             filename: 2.jpg
             filters:
               brightness: 0.7
-          position: center
+          position: right
           color: '#555'
       - title: Research Areas 🔬
         content: |
