@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to BioAI Lab at the School of Computer Science, Xiangtan University!
+      - title: 👋 Welcome to <span style="font-family: 'Times New Roman', serif; font-style: italic;">BioAI</span> Lab at the School of Computer Science, Xiangtan University!
         content: Take a look at what we're working on...
         align: center
         background:
@@ -21,7 +21,7 @@ sections:
       - title: About BioAI Group 🧬
         content: |
           <br>
-          <div style="font-family:'华文新魏';font-size:28px;line-height:1.8;color:white; width: 70%; margin: 0 auto; text-align: left;">
+          <div style="font-family:'Cambria';font-size:28px;line-height:1.8;color:white; width: 70%; margin: 0 auto; text-align: left;">
             Our lab is dedicated to advancing the frontiers of artificial intelligence, multimodal large models, and intelligent drug discovery. <br>  
             We invite you to explore our research and join us in shaping the future of AI-driven healthcare!  <br>
             Our ultimate ambition is to build a transformative framework for end-to-end intelligent drug discovery, leveraging cutting-edge AI technologies to design and optimize therapeutic molecules.
