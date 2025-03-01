@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: 1.webp
             filters:
               brightness: 0.7
           position: right
