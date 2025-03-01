@@ -19,7 +19,8 @@ sections:
           position: right
           color: '#666'
       - title: About BioAI Group 🧬
-        content: Our lab is dedicated to advancing the frontiers of artificial intelligence, multimodal large models, and intelligent drug discovery.  
+        content: |
+          Our lab is dedicated to advancing the frontiers of artificial intelligence, multimodal large models, and intelligent drug discovery.  
           We invite you to explore our research and join us in shaping the future of AI-driven healthcare!  
           Our ultimate ambition is to build a transformative framework for end-to-end intelligent drug discovery, leveraging cutting-edge AI technologies to design and optimize therapeutic molecules.
         align: left
@@ -30,12 +31,13 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Research Areas
-        content: Our research spans several cutting-edge fields:
-     **AI for Drug Discovery**: Developing intelligent models for molecular design and optimization.
-     **Multimodal Learning**: Integrating diverse biological data for enhanced predictions.
-     **Graph Neural Networks**: Leveraging structural insights for protein-ligand interactions.
-     **Generative AI**: Exploring deep learning methods for novel molecule generation.
+      - title: Research Areas 🔬
+        content: |
+          Our research spans several cutting-edge fields:
+           **AI for Drug Discovery**: Developing intelligent models for molecular design and optimization.
+           **Multimodal Learning**: Integrating diverse biological data for enhanced predictions.
+           **Graph Neural Networks**: Leveraging structural insights for protein-ligand interactions.
+           **Generative AI**: Exploring deep learning methods for novel molecule generation.
         align: right
         background:
           image:
