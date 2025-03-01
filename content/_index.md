@@ -50,7 +50,7 @@ sections:
           image:
             filename: welcome.jpg
             filters:
-              brightness: 1.0
+              brightness: 0.8
           position: center
           color: '#333'
     design:
