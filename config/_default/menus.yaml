@@ -28,7 +28,7 @@ main:
   - name: News
     url: news
     weight: 70
-  - name: Link
+  - name: Tutorial
     url: link
     weight: 80
   - name: Contact
