@@ -30,7 +30,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Research Areas 🔬
+      - title: Research Areas
         content: Our research spans several cutting-edge fields:
      **AI for Drug Discovery**: Developing intelligent models for molecular design and optimization.
      **Multimodal Learning**: Integrating diverse biological data for enhanced predictions.
