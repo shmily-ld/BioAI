@@ -20,7 +20,7 @@ sections:
           color: '#666'
       - title: About BioAI Group 🧬
         content: |
-            <div style="text-align: right; margin-left: -10%; font-family: '华文新魏'; font-size: 40px; color: white;">
+            <div style="text-align: right; margin-left:-10%; font-family:'华文新魏'; font-size:40px; color: white;">
       <h2>About BioAI Group 🧬</h2>
     </div>
           <br>
