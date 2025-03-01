@@ -31,11 +31,11 @@ sections:
           position: center
           color: '#555'
       - title: Research Areas 🔬
-        content:     Our research spans several cutting-edge fields:
-    - **AI for Drug Discovery**: Developing intelligent models for molecular design and optimization.
-    - **Multimodal Learning**: Integrating diverse biological data for enhanced predictions.
-    - **Graph Neural Networks**: Leveraging structural insights for protein-ligand interactions.
-    - **Generative AI**: Exploring deep learning methods for novel molecule generation.
+        content: Our research spans several cutting-edge fields:
+     **AI for Drug Discovery**: Developing intelligent models for molecular design and optimization.
+     **Multimodal Learning**: Integrating diverse biological data for enhanced predictions.
+     **Graph Neural Networks**: Leveraging structural insights for protein-ligand interactions.
+     **Generative AI**: Exploring deep learning methods for novel molecule generation.
         align: right
         background:
           image:
