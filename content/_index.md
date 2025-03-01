@@ -36,14 +36,14 @@ sections:
           color: '#555'
       - title: Research Areas 🔬
         content: |
-          <div style="font-size:32px;line-height:1.8;color:white; width: 70%; margin: 0 auto; text-align: left;">
+          <div style="font-family: Cambria; font-size:32px;line-height:1.8;color:white; width: 70%; margin: 0 auto; text-align: left;">
             Our research spans several cutting-edge fields:
           </div>
-          <div style="font-family: Cambria, serif; font-style: italic; font-size:32px;line-height:1.8;color:white; width: 70%; margin: 0 auto; text-align: left;">
-           1. AI for Drug Discovery**: Developing intelligent models for molecular design and optimization. <br>
-           2. Multimodal Learning**: Integrating diverse biological data for enhanced predictions. <br>
-           3. Graph Neural Networks**: Leveraging structural insights for protein-ligand interactions. <br>
-           4. Generative AI**: Exploring deep learning methods for novel molecule generation. <br>
+          <div style="font-family: Times New Roman, serif; font-style: italic; font-size:32px;line-height:1.8;color:white; width: 70%; margin: 0 auto; text-align: left;">
+           1. AI for Drug Discovery <br>
+           2. Multimodal Learning <br>
+           3. Graph Neural Networks <br>
+           4. Generative AI <br>
           </div>
         align: center
         background:
@@ -53,11 +53,6 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
-          text: Join Us
-          url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
