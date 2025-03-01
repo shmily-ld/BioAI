@@ -21,12 +21,12 @@ sections:
       - title: About BioAI Group 🧬
         content: |
           <br>
-          <div style="font-family:'华文新魏';font-size:28px;line-height:1.8;color:white; width: 60%; margin: 0 auto; text-align: left; margin-left: -10%;">
+          <div style="font-family:'华文新魏';font-size:28px;line-height:1.8;color:white; width: 60%; margin: 0 auto; text-align: left; margin-right: 10%;">
             Our lab is dedicated to advancing the frontiers of artificial intelligence, multimodal large models, and intelligent drug discovery. <br>  
             We invite you to explore our research and join us in shaping the future of AI-driven healthcare!  <br>
             Our ultimate ambition is to build a transformative framework for end-to-end intelligent drug discovery, leveraging cutting-edge AI technologies to design and optimize therapeutic molecules.
           </div>
-        align: right
+        align: center
         background:
           image:
             filename: 2.jpg
