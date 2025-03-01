@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to <span style="font-family: 'Times New Roman', serif; font-style: italic;">BioAI</span> Lab at the School of Computer Science, Xiangtan University!
+      - title: 👋 Welcome to BioAI Lab at the School of Computer Science, Xiangtan University!
         content: Take a look at what we're working on...
         align: center
         background:
