@@ -28,9 +28,9 @@ main:
   - name: News
     url: news
     weight: 70
-  # - name: Tutorials
-  #   url: tutorials
-  #   weight: 80
+  - name: Link
+    url: link
+    weight: 80
   - name: Contact
     url: contact
     weight: 90
